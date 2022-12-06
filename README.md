@@ -26,9 +26,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This version using Text File to save data, this is the availabe endpoints:
 
 - List Events
+
 [GET] `http://localhost:3000/api/events`
 
 - Add New Events
+
 [POST] `http://localhost:3000/api/events/add`
 
 
@@ -40,7 +42,10 @@ This version using Text File to save data, this is the availabe endpoints:
 }
 ```
 
+`days` required date with format `YYYYMMDDHHss` example: 202101011000 (1 January 2021, 10:00)
+
 - Delete Events
+
 [POST] `http://localhost:3000/api/events/delete`
 
 ```
