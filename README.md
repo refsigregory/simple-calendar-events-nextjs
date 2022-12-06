@@ -1,4 +1,4 @@
-#Simple Calendar with NextJS
+# Simple Calendar with NextJS
 
 Still in progres....
 
